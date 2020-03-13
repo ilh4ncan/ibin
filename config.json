@@ -1,0 +1,12 @@
+{
+	"host": "localhost",
+	"port": 8080,
+	"dataPath": "./data",
+	"keyLength": 10,
+	"maxLength": 500000,
+	"createKey": "",
+	"documents": {
+		"about": "./README.md",
+		"javaTest": "./documents/test.java"
+	}
+}

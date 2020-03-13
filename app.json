@@ -1,0 +1,15 @@
+{
+	"name": "İbin",
+	"description": "Hastebin Plus is an open-source Pastebin software written in node.js.",
+	"repository": "https://github.com/MarvinMenzerath/HastebinPlus",
+	"logo": "https://cdn.discordapp.com/attachments/687435881254092957/688077020059533313/1584120681909.png",
+	"keywords": [
+		"node",
+		"paste",
+		"pastebin",
+		"haste",
+		"hastebin",
+		"code",
+		"syntax highlighting"
+	]
+}
